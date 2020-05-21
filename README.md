@@ -1,6 +1,6 @@
-# Django Blog Mini Project
+# Django Ecommerce Project
 
-## A simple blog app usig Django
+## An Ecommerce app usig Django
 
 `pip3 install django==1.11.29`
 
